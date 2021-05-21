@@ -30,3 +30,13 @@ paths:
           schema:
             type: integer
             minimum: 1
+
+  /api/test-simple/:
+    get:
+      responses:
+        '200':
+          description: Success.
+          content:
+            application/json:
+              schema:
+                type: object

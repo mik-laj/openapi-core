@@ -5,5 +5,5 @@ openapi-schema-validator
 six
 lazy-object-proxy
 attrs
-parse==1.14.0
+parse==1.19.0
 more-itertools>=5.0.0
